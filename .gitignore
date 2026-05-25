@@ -1,0 +1,4 @@
+session.session
+*.session
+bot.log
+nohup.out
